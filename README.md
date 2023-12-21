@@ -2,6 +2,8 @@
 
 Project ini merupakan hasil dan dokumentasi dari course [BWA - Flutter Laravel Shamo](https://buildwithangga.com/kelas/full-stack-laravel-flutter-2021-building-e-commerce-and-chat-apps?main_leads=topic). Shamo merupakan replika dari E-Commerce and Chat Apps.
 
+<img src="./docs/Sneakpeak.png" alt="Deskripsi Gambar" style="width: 100%;" />
+
 ## Get Started
 ### Prerequisites
 
